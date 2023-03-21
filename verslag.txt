@@ -1,3 +1,4 @@
+
        Inhoudsopgave
 -		    Inleiding
 Hoofdstuk 1	Opleiding
@@ -6,6 +7,7 @@ Hoofdstuk 3	Receptie
 Hoofdstuk 4	Gevolgen op de samenleving van Chat GPT
 Hoofdstuk 5	Concurrentie
 
+
 Inleiding
 
 ChatGPT is een chatbot voor kunstmatige intelligentie ontwikkeld door OpenAI en gelanceerd in november 2022. Het is gebouwd bovenop OpenAI's GPT-3.5 en GPT-4 families van grote taalmodellen (LLMs) en is verfijnd (een benadering van transfer learning) met behulp van zowel supervised als reinforcement learning technieken.
@@ -13,6 +15,7 @@ ChatGPT is een chatbot voor kunstmatige intelligentie ontwikkeld door OpenAI en 
 ChatGPT werd gelanceerd als een prototype op 30 november 2022 en kreeg al snel aandacht voor zijn gedetailleerde antwoorden en gearticuleerde antwoorden op vele kennisdomeinen. De ongelijke feitelijke nauwkeurigheid ervan is echter als een belangrijk nadeel aangemerkt. Na de release van ChatGPT werd de waardering van OpenAI geschat op US$ 29 miljard in 2023.
 
 ChatGPT werd oorspronkelijk uitgebracht in november 2022 op basis van GPT-3.5 en GPT-4, het nieuwste OpenAI-model, werd uitgebracht op 14 maart 2023 en is beschikbaar voor ChatGPT Plus-gebruikers.
+
 
 Opleiding
 
@@ -23,4 +26,12 @@ In het geval van supervised learning werd het model voorzien van gesprekken waar
 Deze ranglijsten werden gebruikt om 'beloningsmodellen' te maken waarop het     model verder werd afgestemd met behulp van verschillende iteraties van Proximale Beleidsoptimalisatie (PPO) Proximale beleidsoptimalisatie-algoritmen bieden een kosteneffectief voordeel voor algoritmen voor het vertrouwen in regiobeleidsoptimalisatie; ze ontkrachten veel van de rekensomrijke bewerkingen met snellere prestaties. De modellen werden getraind in samenwerking met Microsoft op hun Azure supercomputing infrastructuur, met behulp van Nvidia GPU's, "supercomputer ontwikkeld voor OpenAI is een enkel systeem met meer dan 285.000 CPU-kernen, 10.000 GPU's en 400 gigabit per seconde netwerkconnectiviteit voor elke GPU-server".
 
 Daarnaast blijft OpenAI gegevens van ChatGPT-gebruikers verzamelen die kunnen worden gebruikt om ChatGPT verder te trainen en te verfijnen. Gebruikers kunnen reacties die ze ontvangen van ChatGPT upvoten of downvoten en een tekstveld invullen met aanvullende feedback.
+
+
+Features:
+Het hoofddoel van ChatGPT is mensenelijke gesprekken nabootsen, maar het is tot veel meer instaat.
+Het kan muziek schrijven, helpen met programmeren, helpen teksten schrijven, verhalen verzinnen, en meer. ChatGPT onthoudt bovendien wat men hem in het verleden heeft gevraagt, waardoor hij continue zichzelf kan uitbreiden.
+
+Het is echter niet zonder limieten. Soms schrijft het dingen die waar klinken maar volledig uit de lucht zijn gegrepen of foutief zijn.
+Het heeft zeer weining kennis over gebeurtenissen na September 2021 en mag in principe geen politiek getinde antwoorden geven, alhoewel deze beperkin omzeild kan worden
 
