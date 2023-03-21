@@ -1,5 +1,4 @@
 
-
        Inhoudsopgave
 -		    Inleiding
 Hoofdstuk 1	Opleiding
@@ -50,5 +49,19 @@ Het New York City Department of Education blokkeerde naar verluidt de toegang to
 In een geblindeerde test werd geoordeeld dat ChatGPT geslaagd was voor examens op graduaatniveau aan de Universiteit van Minnesota op het niveau van een C+  student en aan de Wharton School van de Universiteit van Pennsylvania met een B  tot  B-graad. 
 Wetenschappelijke tijdschriften hebben verschillende reacties op ChatGPT: sommige "eisen dat auteurs het gebruik van tekstgenererende tools bekendmaken en verbieden een groot taalmodel (LLM) zoals ChatGPT als co-auteur op te nemen", bijvoorbeeld Nature en JAMA Network . De wetenschap heeft het gebruik van door LLM gegenereerde tekst in al haar tijdschriften "volledig verboden".  Wat de gezondheidszorg betreft, worden mogelijke toepassingen en problemen nauwkeurig onderzocht door beroepsverenigingen en beoefenaars. 
 
+
+Concurrentie
+
+De komst van ChatGPT en de introductie ervan bij het grote publiek verhoogde de interesse en concurrentie in de ruimte.
+In februari 2023 begon Google met de introductie van een experimentele service genaamd " Bard " die is gebaseerd op zijn LaMDA- model voor grote talen. Bard genereert tekstantwoorden op gestelde vragen op basis van informatie die op internet is verzameld. Google-CEO Sundar Pichai beschreef hoe deze technologie zou worden geïntegreerd in bestaande zoekmogelijkheden en zei dat sommige aspecten van de technologie open zouden staan voor externe ontwikkelaars. 
+
+Meta's Yann LeCun , die ChatGPT "goed ontworpen" maar "niet bijzonder innovatief" heeft genoemd, verklaarde in januari 2023 dat Meta op dit moment aarzelt om een concurrent uit te rollen vanwege reputatierisico's, maar verklaarde ook dat Google, Meta en verschillende onafhankelijke startups hebben allemaal afzonderlijk een vergelijkbaar niveau van LLM-technologie als ChatGPT, mocht een van hen willen concurreren. In februari 2023 bracht Meta LLaMA uit , LLM met 65 miljard parameters. 
+Character.ai is een AI-chatbot ontwikkeld door twee ex-Google-ingenieurs die beroemde mensen of denkbeeldige personages kunnen nabootsen. 
+
+Het Chinese bedrijf Baidu bracht in maart 2023 een dienst in ChatGPT-stijl uit genaamd "Wenxin Yiyan" in het Chinees (文心一言) of " Ernie Bot " in het Engels. De service is gebaseerd op het grote taalmodel dat in 2021 door Baidu is ontwikkeld. 
+Het Zuid-Koreaanse zoekmachinebedrijf Naver kondigde in februari 2023 aan dat ze in de eerste helft van 2023 een dienst in ChatGPT-stijl genaamd "SearchGPT" in het Koreaans zouden lanceren. 
+
+Het Russische technologiebedrijf Yandex kondigde in februari 2023 aan dat ze voor het einde van 2023 een dienst in ChatGPT-stijl genaamd "YaLM 2.0" in het Russisch zouden lanceren. 
+Hugging Face , een open-source AI-platform, is een samenwerking aangegaan met AWS om de openheid van AI te bevorderen. Als onderdeel van de overeenkomst kan Hugging Face zijn modellen opnemen in de AWS-cloud, waardoor ontwikkelaars elk van de modellen kunnen gebruiken die door Hugging Face worden aangeboden via de door AWS beheerde ML-service die bekend staat als 'SageMaker'.
 
 
