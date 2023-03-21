@@ -1,4 +1,5 @@
 
+
        Inhoudsopgave
 -		    Inleiding
 Hoofdstuk 1	Opleiding
@@ -34,4 +35,20 @@ Het kan muziek schrijven, helpen met programmeren, helpen teksten schrijven, ver
 
 Het is echter niet zonder limieten. Soms schrijft het dingen die waar klinken maar volledig uit de lucht zijn gegrepen of foutief zijn.
 Het heeft zeer weining kennis over gebeurtenissen na September 2021 en mag in principe geen politiek getinde antwoorden geven, alhoewel deze beperkin omzeild kan worden
+
+
+Gevolgen van Chatgpt op het gebied van cyberbeveiliging en in de academische wereld
+
+Check Point Research en anderen merkten op dat ChatGPT in staat was om phishing - e - mails en malware te schrijven , vooral in combinatie met OpenAI Codex .  Sam Altman , CEO van OpenAI , schreef dat voortschrijdende software "(bijvoorbeeld) een enorm cyberbeveiligingsrisico zou kunnen vormen" en bleef ook voorspellen "dat we in het volgende decennium tot echte AGI ( kunstmatige algemene intelligentie ) zouden kunnen komen, dus we moeten nemen het risico daarvan uiterst serieus". Altman voerde aan dat, hoewel ChatGPT "duidelijk niet in de buurt komt van AGI", men "het exponentiële moet vertrouwen . Plat achteruit kijkend, verticaal vooruitkijkend ". 
+ChatGPT kan inleidende en abstracte delen van wetenschappelijke artikelen schrijven, wat ethische vragen oproept. Verschillende artikelen hebben ChatGPT al als co-auteur vermeld. 
+
+In het tijdschrift The Atlantic merkte Stephen Marche op dat het effect ervan op de academische wereld en vooral op sollicitatie-essays nog niet duidelijk is. De Californische middelbare schoolleraar en auteur Daniel Herman schreef dat ChatGPT "het einde van het Engels op de middelbare school" zou inluiden. In het tijdschrift Nature wees Chris Stokel-Walker erop dat leraren zich zorgen moeten maken over studenten die ChatGPT gebruiken om hun schrijven uit te besteden, maar dat onderwijsaanbieders zich zullen aanpassen om kritisch denken of redeneren te verbeteren. Emma Bowman met NPRschreef over het gevaar van plagiaat door studenten via een AI-tool die bevooroordeelde of onzinnige tekst met een gezaghebbende toon kan produceren: "Er zijn nog steeds veel gevallen waarin je het een vraag stelt en het je een zeer indrukwekkend klinkend antwoord geeft dat gewoon dood is fout." 
+
+Joanna Stern van The Wall Street Journal beschreef bedrog in Amerikaans high school English met de tool door een gegenereerd essay in te dienen. Professor Darren Hick van Furman University beschreef het opmerken van de "stijl" van ChatGPT in een paper die door een student was ingediend. Een online GPT-detector beweerde dat de krant voor 99,9 procent waarschijnlijk door de computer was gegenereerd, maar Hick had geen hard bewijs. De student in kwestie bekende echter dat hij GPT had gebruikt toen hij werd geconfronteerd, en zakte als gevolg daarvan voor de cursus. Hick stelde een beleid voor om een ad-hoc individueel mondeling examen over het paper-onderwerp te geven als een student sterk wordt verdacht van het indienen van een door AI gegenereerd paper. Edward Tian, een laatstejaars student aanPrinceton University heeft een programma gemaakt met de naam "GPTZero", dat bepaalt hoeveel van een tekst AI-gegenereerd is, en leent zich om te worden gebruikt om te detecteren of een essay door mensen is geschreven om academisch plagiaat te bestrijden .  
+
+Het New York City Department of Education blokkeerde naar verluidt de toegang tot ChatGPT in december 2022, en kondigde officieel een verbod aan rond 4 januari 2023.  
+In een geblindeerde test werd geoordeeld dat ChatGPT geslaagd was voor examens op graduaatniveau aan de Universiteit van Minnesota op het niveau van een C+  student en aan de Wharton School van de Universiteit van Pennsylvania met een B  tot  B-graad. 
+Wetenschappelijke tijdschriften hebben verschillende reacties op ChatGPT: sommige "eisen dat auteurs het gebruik van tekstgenererende tools bekendmaken en verbieden een groot taalmodel (LLM) zoals ChatGPT als co-auteur op te nemen", bijvoorbeeld Nature en JAMA Network . De wetenschap heeft het gebruik van door LLM gegenereerde tekst in al haar tijdschriften "volledig verboden".  Wat de gezondheidszorg betreft, worden mogelijke toepassingen en problemen nauwkeurig onderzocht door beroepsverenigingen en beoefenaars. 
+
+
 
