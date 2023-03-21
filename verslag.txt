@@ -1,11 +1,13 @@
-		Inhoudopgave
-
 -		Inleiding
 Hoofdstuk 1	Opleiding
 Hoofdstuk 2	Functies en beperkingen
 Hoofdstuk 3	Receptie
 Hoofdstuk 4	Gevolgen op de samenleving van Chat GPT
-Hoofdstuk 5	Concurentie
+Hoofdstuk 5	Concurrentie
 
 
+ChatGPT is een chatbot voor kunstmatige intelligentie ontwikkeld door OpenAI en gelanceerd in november 2022. Het is gebouwd bovenop OpenAI's GPT-3.5 en GPT-4 families van grote taalmodellen (LLMs) en is verfijnd (een benadering van transfer learning) met behulp van zowel supervised als reinforcement learning technieken.
 
+ChatGPT werd gelanceerd als een prototype op 30 november 2022 en kreeg al snel aandacht voor zijn gedetailleerde antwoorden en gearticuleerde antwoorden op vele kennisdomeinen. De ongelijke feitelijke nauwkeurigheid ervan is echter als een belangrijk nadeel aangemerkt. Na de release van ChatGPT werd de waardering van OpenAI geschat op US$ 29 miljard in 2023.
+
+ChatGPT werd oorspronkelijk uitgebracht in november 2022 op basis van GPT-3.5 en GPT-4, het nieuwste OpenAI-model, werd uitgebracht op 14 maart 2023 en is beschikbaar voor ChatGPT Plus-gebruikers.
