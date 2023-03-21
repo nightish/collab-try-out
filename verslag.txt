@@ -1,7 +1,6 @@
-Receptie:
-ChatGPT ontving oorspronkelijk veel positieve aandacht, vooral door het mainstream publiek.
-Zijn intrede was de eerste keer dat het grootschalig publiek kennis maakte met AI, en kon zien hoe ver de technologie was gekomen.
-Verschillende slimme mensen loofden ChatGPT voor de mogelijke hulp die het in de toekomst kan bieden, bij maken van "first drafts", hulptesksten, databases, en gebruik in onderwijs.
-Het duurde echter niet lang voor kritiek begon op te komen:
-Auteurs en songwriters gaven kritiek op de teksten die ChatGPT schreef. "this song is bullshit, a grotesque mockery of what it is to be human..." volgens Nick Cave.
-Ook bleek de informatie die ChatGPT gaf op antwoorden niet altijd correct te zijn. Zo fabriceerde hij soms teksten die niet in oorspronkelijke werken te vinden zijn, of gaf hij objectief foute antwoorden op geografische vragen.
+Features:
+Het hoofddoel van ChatGPT is mensenelijke gesprekken nabootsen, maar het is tot veel meer instaat.
+Het kan muziek schrijven, helpen met programmeren, helpen teksten schrijven, verhalen verzinnen, en meer. ChatGPT onthoudt bovendien wat men hem in het verleden heeft gevraagt, waardoor hij continue zichzelf kan uitbreiden.
+
+Het is echter niet zonder limieten. Soms schrijft het dingen die waar klinken maar volledig uit de lucht zijn gegrepen of foutief zijn.
+Het heeft zeer weining kennis over gebeurtenissen na September 2021 en mag in principe geen politiek getinde antwoorden geven, alhoewel deze beperkin omzeild kan worden
