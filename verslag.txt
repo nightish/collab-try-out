@@ -3,9 +3,8 @@
 -		    Inleiding
 Hoofdstuk 1	Opleiding
 Hoofdstuk 2	Functies en beperkingen
-Hoofdstuk 3	Receptie
-Hoofdstuk 4	Gevolgen op de samenleving van Chat GPT
-Hoofdstuk 5	Concurrentie
+Hoofdstuk 3	Gevolgen op de samenleving van Chat GPT
+Hoofdstuk 4	Concurrentie
 
 
 Inleiding
